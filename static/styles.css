@@ -1,0 +1,46 @@
+.background
+{
+    background-image: url(https://i.ibb.co/9y9qLZD/Pokedex.png);
+    background-repeat: no-repeat;
+    height: 600px;
+    width: 800px;
+}
+ 
+.picBox
+{
+    text-align: center;
+    position: relative;
+    left: 37px;
+    top: 220px;
+    height: 320px;
+    width: 315px;
+}
+
+.dataBox
+{
+    text-align: left;
+    position: relative;
+    left: 473px;
+    top: -180px;
+    height: 430px;
+    width: 290px;
+}
+ 
+.name
+{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+    font-weight: bold;
+}
+ 
+.stats
+{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 17px;
+}
+ 
+.description
+{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 16px; 
+}
