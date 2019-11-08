@@ -37,7 +37,7 @@ with open('pokemon.json') as f:
 
 	#Randomly chooses a num between 0 - 299
 def choosePoke(n):
-	i = random.randint(0,150)
+	i = random.randint(0,n)
 	return i
 
 
