@@ -4,18 +4,22 @@ import datetime
 import random
 from flask import Flask, render_template
 from flask_assets import Bundle, Environment
+import pygame
+from pygame import mixer
+
 #VARIABLES STARTING WITH j CAME FROM OUR JSON FILE
 #VARIABLES STARTING WITH api IS EXTRACTED FROM API
 #VARIABLES STARTING WITH p IS CREATED IN .PY BUT USED IN .HTML
-#Dummy comment fir push/pull verification
-#sssssssssssssssssssssssss
 
 app = Flask(__name__)
 @app.route("/")
 
-#Returns all necessary attributes to be used in HTML file
-#Need to add 1 to arrayNum since indices start at 0
 def index():
+	cry = f'cries\{jName}.mp3'
+	pygame.mixer.init()
+	pygame.mixer.music.load(cry)
+	pygame.mixer.music.play(0)
+	
 	data = {'myPokemon': jName}
 	return render_template("index.html",
 		pName=jName,
@@ -30,10 +34,12 @@ def index():
 with open('pokemon.json') as f:
 	jData = json.load(f)
 
-#Randomly chooses a num between 0 - 299
+
+	#Randomly chooses a num between 0 - 299
 def choosePoke(n):
-	i = random.randint(0,n)
+	i = random.randint(0,150)
 	return i
+
 
 	#jNum is a randomized number out of 279 (since we have 280 pokemon)
 	#jName is name of random pokemon
@@ -60,3 +66,5 @@ apiWeight = pack_apiData['weight']
 
 	#Used to test if desired attributes were printed (in console)
 print(jName, apiNum, apiType, apiHeight, apiWeight)
+
+
