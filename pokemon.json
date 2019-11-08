@@ -340,100 +340,100 @@
     "descrip" : "Tangela's vines snap off easily if they are grabbed. This happens without pain, allowing it to make a quick getaway. The lost vines are replaced by newly grown vines the very next day."},
   {
     "name" :"kangaskhan",
-    "descrip" : "If you come across a young Kangaskhan playing by itself, you must never disturb it or attempt to catch it. The baby Pokémon's parent is sure to be in the area, and it will become violently enraged at you."},
+    "descrip" : "If you come across a young Kangaskhan playing by itself, you must never disturb it or attempt to catch it. The baby Pokemon's parent is sure to be in the area, and it will become violently enraged at you."},
   {
     "name" :"horsea",
-    "descrip" : "Horsea eats small insects and moss off of rocks. If the ocean current turns fast, this Pokémon anchors itself by wrapping its tail around rocks or coral to prevent being washed away."},
+    "descrip" : "Horsea eats small insects and moss off of rocks. If the ocean current turns fast, this Pokemon anchors itself by wrapping its tail around rocks or coral to prevent being washed away."},
   {
     "name" :"seadra",
-    "descrip" : "Seadra sleeps after wriggling itself between the branches of coral. Those trying to harvest coral are occasionally stung by this Pokémon's poison barbs if they fail to notice it."},
+    "descrip" : "Seadra sleeps after wriggling itself between the branches of coral. Those trying to harvest coral are occasionally stung by this Pokemon's poison barbs if they fail to notice it."},
   {
     "name" :"goldeen",
-    "descrip" : "Goldeen is a very beautiful Pokémon with fins that billow elegantly in water. However, don't let your guard down around this Pokémon—it could ram you powerfully with its horn."},
+    "descrip" : "Goldeen is a very beautiful Pokemon with fins that billow elegantly in water. However, don't let your guard down around this Pokemon—it could ram you powerfully with its horn."},
   {
     "name" :"seaking",
-    "descrip" : "In the autumn, Seaking males can be seen performing courtship dances in riverbeds to woo females. During this season, this Pokémon's body coloration is at its most beautiful."},
+    "descrip" : "In the autumn, Seaking males can be seen performing courtship dances in riverbeds to woo females. During this season, this Pokemon's body coloration is at its most beautiful."},
   {
     "name" :"staryu",
-    "descrip" : "Staryu's center section has an organ called the core that shines bright red. If you go to a beach toward the end of summer, the glowing cores of these Pokémon look like the stars in the sky."},
+    "descrip" : "Staryu's center section has an organ called the core that shines bright red. If you go to a beach toward the end of summer, the glowing cores of these Pokemon look like the stars in the sky."},
   {
     "name" :"starmie",
-    "descrip" : "Starmie's center section—the core—glows brightly in seven colors. Because of its luminous nature, this Pokémon has been given the nickname \"the gem of the sea.\""},
+    "descrip" : "Starmie's center section—the core—glows brightly in seven colors. Because of its luminous nature, this Pokemon has been given the nickname \"the gem of the sea.\""},
   {
     "name" :"mr.mime",
     "descrip" : "Mr. Mime is a master of pantomime. Its gestures and motions convince watchers that something unseeable actually exists. Once the watchers are convinced, the unseeable thing exists as if it were real."},
   {
     "name" :"scyther",
-    "descrip" : "Scyther is blindingly fast. Its blazing speed enhances the effectiveness of the twin scythes on its forearms. This Pokémon's scythes are so effective, they can slice through thick logs in one wicked stroke."},
+    "descrip" : "Scyther is blindingly fast. Its blazing speed enhances the effectiveness of the twin scythes on its forearms. This Pokemon's scythes are so effective, they can slice through thick logs in one wicked stroke."},
   {
     "name" :"jynx",
     "descrip" : "Jynx walks rhythmically, swaying and shaking its hips as if it were dancing. Its motions are so bouncingly alluring, people seeing it are compelled to shake their hips without giving any thought to what they are doing."},
   {
      "name" :"electabuzz",
-     "descrip" : "When a storm arrives, gangs of this Pokémon compete with each other to scale heights that are likely to be stricken by lightning bolts. Some towns use Electabuzz in place of lightning rods."},
+     "descrip" : "When a storm arrives, gangs of this Pokemon compete with each other to scale heights that are likely to be stricken by lightning bolts. Some towns use Electabuzz in place of lightning rods."},
   {
     "name" :"magmar",
-    "descrip" : "In battle, Magmar blows out intensely hot flames from all over its body to intimidate its opponent. This Pokémon's fiery bursts create heat waves that ignite grass and trees in its surroundings."},
+    "descrip" : "In battle, Magmar blows out intensely hot flames from all over its body to intimidate its opponent. This Pokemon's fiery bursts create heat waves that ignite grass and trees in its surroundings."},
   {
     "name" :"pinsir",
-    "descrip" : "Pinsir is astoundingly strong. It can grip a foe weighing twice its weight in its horns and easily lift it. This Pokémon's movements turn sluggish in cold places."},
+    "descrip" : "Pinsir is astoundingly strong. It can grip a foe weighing twice its weight in its horns and easily lift it. This Pokemon's movements turn sluggish in cold places."},
   {
     "name" :"tauros",
-    "descrip" : "This Pokémon is not satisfied unless it is rampaging at all times. If there is no opponent for Tauros to battle, it will charge at thick trees and knock them down to calm itself."},
+    "descrip" : "This Pokemon is not satisfied unless it is rampaging at all times. If there is no opponent for Tauros to battle, it will charge at thick trees and knock them down to calm itself."},
   {
     "name" :"magikarp",
-    "descrip" : "Magikarp is a pathetic excuse for a Pokémon that is only capable of flopping and splashing. This behavior prompted scientists to undertake research into it."},
+    "descrip" : "Magikarp is a pathetic excuse for a Pokemon that is only capable of flopping and splashing. This behavior prompted scientists to undertake research into it."},
   {
     "name" :"gyarados",
-    "descrip" : "When Magikarp evolves into Gyarados, its brain cells undergo a structural transformation. It is said that this transformation is to blame for this Pokémon's wildly violent nature."},
+    "descrip" : "When Magikarp evolves into Gyarados, its brain cells undergo a structural transformation. It is said that this transformation is to blame for this Pokemon's wildly violent nature."},
   {
     "name" :"lapras",
-    "descrip" : "People have driven Lapras almost to the point of extinction. In the evenings, this Pokémon is said to sing plaintively as it seeks what few others of its kind still remain."},
+    "descrip" : "People have driven Lapras almost to the point of extinction. In the evenings, this Pokemon is said to sing plaintively as it seeks what few others of its kind still remain."},
   {
     "name" :"ditto",
-    "descrip" : "Ditto rearranges its cell structure to transform itself into other shapes. However, if it tries to transform itself into something by relying on its memory, this Pokémon manages to get details wrong."},
+    "descrip" : "Ditto rearranges its cell structure to transform itself into other shapes. However, if it tries to transform itself into something by relying on its memory, this Pokemon manages to get details wrong."},
   {
     "name" :"eevee",
-    "descrip" : "Eevee has an unstable genetic makeup that suddenly mutates due to the environment in which it lives. Radiation from various stones causes this Pokémon to evolve."},
+    "descrip" : "Eevee has an unstable genetic makeup that suddenly mutates due to the environment in which it lives. Radiation from various stones causes this Pokemon to evolve."},
   {
     "name" :"vaporeon",
-    "descrip" : "Vaporeon underwent a spontaneous mutation and grew fins and gills that allow it to live underwater. This Pokémon has the ability to freely control water."},
+    "descrip" : "Vaporeon underwent a spontaneous mutation and grew fins and gills that allow it to live underwater. This Pokemon has the ability to freely control water."},
   {
     "name" :"jolteon",
-    "descrip" : "Jolteon's cells generate a low level of electricity. This power is amplified by the static electricity of its fur, enabling the Pokémon to drop thunderbolts. The bristling fur is made of electrically charged needles."},
+    "descrip" : "Jolteon's cells generate a low level of electricity. This power is amplified by the static electricity of its fur, enabling the Pokemon to drop thunderbolts. The bristling fur is made of electrically charged needles."},
   {
     "name" :"flareon",
-    "descrip" : "Flareon's fluffy fur has a functional purpose—it releases heat into the air so that its body does not get excessively hot. This Pokémon's body temperature can rise to a maximum of 1,650 degrees Fahrenheit."},
+    "descrip" : "Flareon's fluffy fur has a functional purpose—it releases heat into the air so that its body does not get excessively hot. This Pokemon's body temperature can rise to a maximum of 1,650 degrees Fahrenheit."},
   {
     "name" :"porygon",
-    "descrip" : "Porygon is capable of reverting itself entirely back to program data and entering cyberspace. This Pokémon is copy protected so it cannot be duplicated by copying."},
+    "descrip" : "Porygon is capable of reverting itself entirely back to program data and entering cyberspace. This Pokemon is copy protected so it cannot be duplicated by copying."},
   {
     "name" :"omanyte",
-    "descrip" : "Omanyte is one of the ancient and long-since-extinct Pokémon that have been regenerated from fossils by people. If attacked by an enemy, it withdraws itself inside its hard shell."},
+    "descrip" : "Omanyte is one of the ancient and long-since-extinct Pokemon that have been regenerated from fossils by people. If attacked by an enemy, it withdraws itself inside its hard shell."},
   {
     "name" :"omastar",
     "descrip" : "Omastar uses its tentacles to capture its prey. It is believed to have become extinct because its shell grew too large and heavy, causing its movements to become too slow and ponderous."},
   {
     "name" :"kabuto",
-    "descrip" : "Kabuto is a Pokémon that has been regenerated from a fossil. However, in extremely rare cases, living examples have been discovered. The Pokémon has not changed at all for 300 million years."},
+    "descrip" : "Kabuto is a Pokemon that has been regenerated from a fossil. However, in extremely rare cases, living examples have been discovered. The Pokemon has not changed at all for 300 million years."},
   {
     "name" :"kabutops",
-    "descrip" : "Kabutops swam underwater to hunt for its prey in ancient times. The Pokémon was apparently evolving from being a water dweller to living on land as evident from the beginnings of change in its gills and legs."},
+    "descrip" : "Kabutops swam underwater to hunt for its prey in ancient times. The Pokemon was apparently evolving from being a water dweller to living on land as evident from the beginnings of change in its gills and legs."},
   {
     "name" :"aerodactyl",
-    "descrip" : "Aerodactyl is a Pokémon from the age of dinosaurs. It was regenerated from genetic material extracted from amber. It is imagined to have been the king of the skies in ancient times."},
+    "descrip" : "Aerodactyl is a Pokemon from the age of dinosaurs. It was regenerated from genetic material extracted from amber. It is imagined to have been the king of the skies in ancient times."},
   {
     "name" :"snorlax",
-    "descrip" : "Snorlax's typical day consists of nothing more than eating and sleeping. It is such a docile Pokémon that there are children who use its expansive belly as a place to play."},
+    "descrip" : "Snorlax's typical day consists of nothing more than eating and sleeping. It is such a docile Pokemon that there are children who use its expansive belly as a place to play."},
   {
     "name" :"articuno",
-    "descrip" : "Articuno is a legendary bird Pokémon that can control ice. The flapping of its wings chills the air. As a result, it is said that when this Pokémon flies, snow will fall."},
+    "descrip" : "Articuno is a legendary bird Pokemon that can control ice. The flapping of its wings chills the air. As a result, it is said that when this Pokemon flies, snow will fall."},
   {
     "name" :"zapdos",
-    "descrip" : "Zapdos is a legendary bird Pokémon that has the ability to control electricity. It usually lives in thunderclouds. The Pokémon gains power if it is stricken by lightning bolts."},
+    "descrip" : "Zapdos is a legendary bird Pokemon that has the ability to control electricity. It usually lives in thunderclouds. The Pokemon gains power if it is stricken by lightning bolts."},
   {
     "name" :"moltres",
-    "descrip" : "Moltres is a legendary bird Pokémon that has the ability to control fire. If this Pokémon is injured, it is said to dip its body in the molten magma of a volcano to burn and heal itself."},
+    "descrip" : "Moltres is a legendary bird Pokemon that has the ability to control fire. If this Pokemon is injured, it is said to dip its body in the molten magma of a volcano to burn and heal itself."},
   {
     "name" :"dratini",
     "descrip" : "Dratini continually molts and sloughs off its old skin. It does so because the life energy within its body steadily builds to reach uncontrollable levels."},
@@ -442,34 +442,34 @@
     "descrip" : "Dragonair stores an enormous amount of energy inside its body. It is said to alter weather conditions in its vicinity by discharging energy from the crystals on its neck and tail."},
   {
     "name" :"dragonite",
-    "descrip" : "Dragonite is capable of circling the globe in just 16 hours. It is a kindhearted Pokémon that leads lost and foundering ships in a storm to the safety of land."},
+    "descrip" : "Dragonite is capable of circling the globe in just 16 hours. It is a kindhearted Pokemon that leads lost and foundering ships in a storm to the safety of land."},
   {
     "name" :"mewtwo",
-    "descrip" : "Mewtwo is a Pokémon that was created by genetic manipulation. However, even though the scientific power of humans created this Pokémon's body, they failed to endow Mewtwo with a compassionate heart."},
+    "descrip" : "Mewtwo is a Pokemon that was created by genetic manipulation. However, even though the scientific power of humans created this Pokemon's body, they failed to endow Mewtwo with a compassionate heart."},
   {
     "name" :"mew",
-    "descrip" : "Mew is said to possess the genetic composition of all Pokémon. It is capable of making itself invisible at will, so it entirely avoids notice even if it approaches people."},
+    "descrip" : "Mew is said to possess the genetic composition of all Pokemon. It is capable of making itself invisible at will, so it entirely avoids notice even if it approaches people."},
   {
     "name" :"chikorita",
-    "descrip" : "In battle, Chikorita waves its leaf around to keep the foe at bay. However, a sweet fragrance also wafts from the leaf, becalming the battling Pokémon and creating a cozy, friendly atmosphere all around."},
+    "descrip" : "In battle, Chikorita waves its leaf around to keep the foe at bay. However, a sweet fragrance also wafts from the leaf, becalming the battling Pokemon and creating a cozy, friendly atmosphere all around."},
   {
     "name" :"bayleef",
     "descrip" : "Bayleef's neck is ringed by curled-up leaves. Inside each tubular leaf is a small shoot of a tree. The fragrance of this shoot makes people peppy."},
   {
     "name" :"meganium,",
-    "descrip" : "The fragrance of Meganium's flower soothes and calms emotions. In battle, this Pokémon gives off more of its becalming scent to blunt the foe's fighting spirit."},
+    "descrip" : "The fragrance of Meganium's flower soothes and calms emotions. In battle, this Pokemon gives off more of its becalming scent to blunt the foe's fighting spirit."},
   {
     "name" :"cyndaquil",
-    "descrip" : "Cyndaquil protects itself by flaring up the flames on its back. The flames are vigorous if the Pokémon is angry. However, if it is tired, the flames splutter fitfully with incomplete combustion."},
+    "descrip" : "Cyndaquil protects itself by flaring up the flames on its back. The flames are vigorous if the Pokemon is angry. However, if it is tired, the flames splutter fitfully with incomplete combustion."},
   {
     "name" :"quilava",
-    "descrip" : "Quilava keeps its foes at bay with the intensity of its flames and gusts of superheated air. This Pokémon applies its outstanding nimbleness to dodge attacks even while scorching the foe with flames."},
+    "descrip" : "Quilava keeps its foes at bay with the intensity of its flames and gusts of superheated air. This Pokemon applies its outstanding nimbleness to dodge attacks even while scorching the foe with flames."},
   {
     "name" :"typhlosion",
-    "descrip" : "Typhlosion obscures itself behind a shimmering heat haze that it creates using its intensely hot flames. This Pokémon creates blazing explosive blasts that burn everything to cinders."},
+    "descrip" : "Typhlosion obscures itself behind a shimmering heat haze that it creates using its intensely hot flames. This Pokemon creates blazing explosive blasts that burn everything to cinders."},
   {
     "name" :"totodile",
-    "descrip" : "Despite the smallness of its body, Totodile's jaws are very powerful. While the Pokémon may think it is just playfully nipping, its bite has enough power to cause serious injury."},
+    "descrip" : "Despite the smallness of its body, Totodile's jaws are very powerful. While the Pokemon may think it is just playfully nipping, its bite has enough power to cause serious injury."},
   {
     "name" :"croconaw",
     "descrip" : "Once Croconaw has clamped its jaws on its foe, it will absolutely not let go. Because the tips of its fangs are forked back like barbed fishhooks, they become impossible to remove when they have sunk in."},
@@ -478,58 +478,58 @@
     "descrip" : "Feraligatr intimidates its foes by opening its huge mouth. In battle, it will kick the ground hard with its thick and powerful hind legs to charge at the foe at an incredible speed."},
   {
     "name" :"sentret",
-    "descrip" : "When Sentret sleeps, it does so while another stands guard. The sentry wakes the others at the first sign of danger. When this Pokémon becomes separated from its pack, it becomes incapable of sleep due to fear."},
+    "descrip" : "When Sentret sleeps, it does so while another stands guard. The sentry wakes the others at the first sign of danger. When this Pokemon becomes separated from its pack, it becomes incapable of sleep due to fear."},
   {
     "name" :"furret",
-    "descrip" : "Furret has a very slim build. When under attack, it can slickly squirm through narrow spaces and get away. In spite of its short limbs, this Pokémon is very nimble and fleet."},
+    "descrip" : "Furret has a very slim build. When under attack, it can slickly squirm through narrow spaces and get away. In spite of its short limbs, this Pokemon is very nimble and fleet."},
   {
     "name" :"hoothoot",
-    "descrip" : "Hoothoot has an internal organ that senses and tracks the earth's rotation. Using this special organ, this Pokémon begins hooting at precisely the same time every day."},
+    "descrip" : "Hoothoot has an internal organ that senses and tracks the earth's rotation. Using this special organ, this Pokemon begins hooting at precisely the same time every day."},
   {
     "name" :"noctowl",
-    "descrip" : "Noctowl never fails at catching prey in darkness. This Pokémon owes its success to its superior vision that allows it to see in minimal light, and to its soft, supple wings that make no sound in flight."},
+    "descrip" : "Noctowl never fails at catching prey in darkness. This Pokemon owes its success to its superior vision that allows it to see in minimal light, and to its soft, supple wings that make no sound in flight."},
   {
     "name" :"ledyba",
-    "descrip" : "Ledyba secretes an aromatic fluid from where its legs join its body. This fluid is used for communicating with others. This Pokémon conveys its feelings to others by altering the fluid's scent."},
+    "descrip" : "Ledyba secretes an aromatic fluid from where its legs join its body. This fluid is used for communicating with others. This Pokemon conveys its feelings to others by altering the fluid's scent."},
   {
     "name" :"ledian",
-    "descrip" : "It is said that in lands with clean air, where the stars fill the sky, there live Ledian in countless numbers. There is a good reason for this—the Pokémon uses the light of the stars as its energy."},
+    "descrip" : "It is said that in lands with clean air, where the stars fill the sky, there live Ledian in countless numbers. There is a good reason for this—the Pokemon uses the light of the stars as its energy."},
   {
     "name" :"spinarak",
-    "descrip" : "The web spun by Spinarak can be considered its second nervous system. It is said that this Pokémon can determine what kind of prey is touching its web just by the tiny vibrations it feels through the web's strands."},
+    "descrip" : "The web spun by Spinarak can be considered its second nervous system. It is said that this Pokemon can determine what kind of prey is touching its web just by the tiny vibrations it feels through the web's strands."},
   {
     "name" :"ariados",
-    "descrip" : "Ariados's feet are tipped with tiny hooked claws that enable it to scuttle on ceilings and vertical walls. This Pokémon constricts the foe with thin and strong silk webbing."},
+    "descrip" : "Ariados's feet are tipped with tiny hooked claws that enable it to scuttle on ceilings and vertical walls. This Pokemon constricts the foe with thin and strong silk webbing."},
   {
     "name" :"crobat",
-    "descrip" : "If this Pokémon is flying by fluttering only a pair of wings on either the forelegs or hind legs, it's proof that Crobat has been flying a long distance. It switches the wings it uses if it is tired."},
+    "descrip" : "If this Pokemon is flying by fluttering only a pair of wings on either the forelegs or hind legs, it's proof that Crobat has been flying a long distance. It switches the wings it uses if it is tired."},
   {
     "name" :"chinchou",
-    "descrip" : "Chinchou lets loose positive and negative electrical charges from its two antennas to make its prey faint. This Pokémon flashes its electric lights to exchange signals with others."},
+    "descrip" : "Chinchou lets loose positive and negative electrical charges from its two antennas to make its prey faint. This Pokemon flashes its electric lights to exchange signals with others."},
   {
     "name" :"lanturn",
-    "descrip" : "Lanturn is nicknamed \"the deep-sea star\" for its illuminated antenna. This Pokémon produces light by causing a chemical reaction between bacteria and its bodily fluids inside the antenna."},
+    "descrip" : "Lanturn is nicknamed \"the deep-sea star\" for its illuminated antenna. This Pokemon produces light by causing a chemical reaction between bacteria and its bodily fluids inside the antenna."},
   {
     "name" :"pichu",
-    "descrip" : "Pichu charges itself with electricity more easily on days with thunderclouds or when the air is very dry. You can hear the crackling of static electricity coming off this Pokémon."},
+    "descrip" : "Pichu charges itself with electricity more easily on days with thunderclouds or when the air is very dry. You can hear the crackling of static electricity coming off this Pokemon."},
   {
     "name" :"cleffa",
-    "descrip" : "On nights with many shooting stars, Cleffa can be seen dancing in a ring. They dance through the night and stop only at the break of day, when these Pokémon quench their thirst with the morning dew."},
+    "descrip" : "On nights with many shooting stars, Cleffa can be seen dancing in a ring. They dance through the night and stop only at the break of day, when these Pokemon quench their thirst with the morning dew."},
   {
     "name" :"igglybuff",
-    "descrip" : "Igglybuff's vocal cords are not sufficiently developed. It would hurt its throat if it were to sing too much. This Pokémon gargles with freshwater from a clean stream."},
+    "descrip" : "Igglybuff's vocal cords are not sufficiently developed. It would hurt its throat if it were to sing too much. This Pokemon gargles with freshwater from a clean stream."},
   {
     "name" :"togepi",
-    "descrip" : "As its energy, Togepi uses the positive emotions of compassion and pleasure exuded by people and Pokémon. This Pokémon stores up feelings of happiness inside its shell, then shares them with others."},
+    "descrip" : "As its energy, Togepi uses the positive emotions of compassion and pleasure exuded by people and Pokemon. This Pokemon stores up feelings of happiness inside its shell, then shares them with others."},
   {
     "name" :"togetic",
-    "descrip" : "Togetic is said to be a Pokémon that brings good fortune. When the Pokémon spots someone who is pure of heart, it is said to appear and share its happiness with that person."},
+    "descrip" : "Togetic is said to be a Pokemon that brings good fortune. When the Pokemon spots someone who is pure of heart, it is said to appear and share its happiness with that person."},
   {
     "name" :"natu",
-    "descrip" : "Natu cannot fly because its wings are not yet fully grown. If your eyes meet with this Pokémon's eyes, it will stare back intently at you. But if you move even slightly, it will hop away to safety."},
+    "descrip" : "Natu cannot fly because its wings are not yet fully grown. If your eyes meet with this Pokemon's eyes, it will stare back intently at you. But if you move even slightly, it will hop away to safety."},
   {
     "name" :"xatu",
-    "descrip" : "Xatu stands rooted and still in one spot all day long. People believe that this Pokémon does so out of fear of the terrible things it has foreseen in the future."},
+    "descrip" : "Xatu stands rooted and still in one spot all day long. People believe that this Pokemon does so out of fear of the terrible things it has foreseen in the future."},
   {
     "name" :"mareep",
     "descrip" : "Mareep's fluffy coat of wool rubs together and builds a static charge. The more static electricity is charged, the more brightly the lightbulb at the tip of its tail glows."},
@@ -538,34 +538,34 @@
     "descrip" : "Flaaffy's wool quality changes so that it can generate a high amount of static electricity with a small amount of wool. The bare and slick parts of its hide are shielded against electricity."},
   {
     "name" :"ampharos",
-    "descrip" : "Ampharos gives off so much light that it can be seen even from space. People in the old days used the light of this Pokémon to send signals back and forth with others far away."},
+    "descrip" : "Ampharos gives off so much light that it can be seen even from space. People in the old days used the light of this Pokemon to send signals back and forth with others far away."},
   {
     "name" :"bellossom",
-    "descrip" : "When Bellossom gets exposed to plenty of sunlight, the leaves ringing its body begin to spin around. This Pokémon's dancing is renowned in the southern lands."},
+    "descrip" : "When Bellossom gets exposed to plenty of sunlight, the leaves ringing its body begin to spin around. This Pokemon's dancing is renowned in the southern lands."},
   {
     "name" :"marill",
-    "descrip" : "Marill's oil-filled tail acts much like a life preserver. If you see just its tail bobbing on the water's surface, it's a sure indication that this Pokémon is diving beneath the water to feed on aquatic plants."},
+    "descrip" : "Marill's oil-filled tail acts much like a life preserver. If you see just its tail bobbing on the water's surface, it's a sure indication that this Pokemon is diving beneath the water to feed on aquatic plants."},
   {
     "name" :"azumarill",
-    "descrip" : "Azumarill's long ears are indispensable sensors. By focusing its hearing, this Pokémon can identify what kinds of prey are around, even in rough and fast-running rivers."},
+    "descrip" : "Azumarill's long ears are indispensable sensors. By focusing its hearing, this Pokemon can identify what kinds of prey are around, even in rough and fast-running rivers."},
   {
     "name" :"sudowoodo",
-    "descrip" : "Sudowoodo camouflages itself as a tree to avoid being attacked by enemies. However, because its hands remain green throughout the year, the Pokémon is easily identified as a fake during the winter."},
+    "descrip" : "Sudowoodo camouflages itself as a tree to avoid being attacked by enemies. However, because its hands remain green throughout the year, the Pokemon is easily identified as a fake during the winter."},
   {
     "name" :"politoed",
-    "descrip" : "The curled hair on Politoed's head is proof of its status as a king. It is said that the longer and more curled the hair, the more respect this Pokémon earns from its peers."},
+    "descrip" : "The curled hair on Politoed's head is proof of its status as a king. It is said that the longer and more curled the hair, the more respect this Pokemon earns from its peers."},
   {
     "name" :"hoppip",
-    "descrip" : "This Pokémon drifts and floats with the wind. If it senses the approach of strong winds, Hoppip links its leaves with other Hoppip to prepare against being blown away."},
+    "descrip" : "This Pokemon drifts and floats with the wind. If it senses the approach of strong winds, Hoppip links its leaves with other Hoppip to prepare against being blown away."},
   {
     "name" :"skiploom",
-    "descrip" : "Skiploom's flower blossoms when the temperature rises above 64 degrees Fahrenheit. How much the flower opens depends on the temperature. For that reason, this Pokémon is sometimes used as a thermometer."},
+    "descrip" : "Skiploom's flower blossoms when the temperature rises above 64 degrees Fahrenheit. How much the flower opens depends on the temperature. For that reason, this Pokemon is sometimes used as a thermometer."},
   {
     "name" :"jumpluff",
-    "descrip" : "Jumpluff rides warm southern winds to cross the sea and fly to foreign lands. The Pokémon descends to the ground when it encounters cold air while it is floating."},
+    "descrip" : "Jumpluff rides warm southern winds to cross the sea and fly to foreign lands. The Pokemon descends to the ground when it encounters cold air while it is floating."},
   {
     "name" :"aipom",
-    "descrip" : "Aipom's tail ends in a hand-like appendage that can be cleverly manipulated. However, because the Pokémon uses its tail so much, its real hands have become rather clumsy."},
+    "descrip" : "Aipom's tail ends in a hand-like appendage that can be cleverly manipulated. However, because the Pokemon uses its tail so much, its real hands have become rather clumsy."},
   {
     "name" :"sunkern",
     "descrip" : "Sunkern tries to move as little as it possibly can. It does so because it tries to conserve all the nutrients it has stored in its body for its evolution. It will not eat a thing, subsisting only on morning dew."},
@@ -574,265 +574,265 @@
     "descrip" : "Sunflora converts solar energy into nutrition. It moves around actively in the daytime when it is warm. It stops moving as soon as the sun goes down for the night."},
   {
     "name" :"yanma",
-    "descrip" : "Yanma is capable of seeing 360 degrees without having to move its eyes. It is a great flier that is adept at making sudden stops and turning midair. This Pokémon uses its flying ability to quickly chase down targeted prey."},
+    "descrip" : "Yanma is capable of seeing 360 degrees without having to move its eyes. It is a great flier that is adept at making sudden stops and turning midair. This Pokemon uses its flying ability to quickly chase down targeted prey."},
   {
     "name" :"wooper",
     "descrip" : "Wooper usually lives in water. However, it occasionally comes out onto land in search of food. On land, it coats its body with a gooey, toxic film."},
   {
     "name" :"quagsire",
-    "descrip" : "Quagsire hunts for food by leaving its mouth wide open in water and waiting for its prey to blunder in unaware. Because the Pokémon does not move, it does not get very hungry."},
+    "descrip" : "Quagsire hunts for food by leaving its mouth wide open in water and waiting for its prey to blunder in unaware. Because the Pokemon does not move, it does not get very hungry."},
   {
     "name" :"espeon",
-    "descrip" : "Espeon is extremely loyal to any Trainer it considers to be worthy. It is said that this Pokémon developed its precognitive powers to protect its Trainer from harm."},
+    "descrip" : "Espeon is extremely loyal to any Trainer it considers to be worthy. It is said that this Pokemon developed its precognitive powers to protect its Trainer from harm."},
   {
     "name" :"umbreon",
     "descrip" : "Umbreon evolved as a result of exposure to the moon's waves. It hides silently in darkness and waits for its foes to make a move. The rings on its body glow when it leaps to attack."},
   {
     "name" :"murkrow",
-    "descrip" : "Murkrow was feared and loathed as the alleged bearer of ill fortune. This Pokémon shows strong interest in anything that sparkles or glitters. It will even try to steal rings from women."},
+    "descrip" : "Murkrow was feared and loathed as the alleged bearer of ill fortune. This Pokemon shows strong interest in anything that sparkles or glitters. It will even try to steal rings from women."},
   {
     "name" :"slowking",
-    "descrip" : "Slowking undertakes research every day in an effort to solve the mysteries of the world. However, this Pokémon apparently forgets everything it has learned if the Shellder on its head comes off."},
+    "descrip" : "Slowking undertakes research every day in an effort to solve the mysteries of the world. However, this Pokemon apparently forgets everything it has learned if the Shellder on its head comes off."},
   {
     "name" :"misdreavus",
-    "descrip" : "Misdreavus frightens people with a creepy, sobbing cry. The Pokémon apparently uses its red spheres to absorb the fearful feelings of foes and turn them into nutrition."},
+    "descrip" : "Misdreavus frightens people with a creepy, sobbing cry. The Pokemon apparently uses its red spheres to absorb the fearful feelings of foes and turn them into nutrition."},
   {
     "name" :"unown",
-    "descrip" : "This Pokémon is shaped like ancient writing. It is a mystery as to which came first, the ancient writings or the various Unown. Research into this topic is ongoing but nothing is known."},
+    "descrip" : "This Pokemon is shaped like ancient writing. It is a mystery as to which came first, the ancient writings or the various Unown. Research into this topic is ongoing but nothing is known."},
   {
     "name" :"wobbuffet",
     "descrip" : "If two or more Wobbuffet meet, they will turn competitive and try to outdo each other's endurance. However, they may try to see which one can endure the longest without food. Trainers need to beware of this habit."},
   {
     "name" :"girafarig",
-    "descrip" : "Girafarig's rear head also has a brain, but it is small. The rear head attacks in response to smells and sounds. Approaching this Pokémon from behind can cause the rear head to suddenly lash out and bite."},
+    "descrip" : "Girafarig's rear head also has a brain, but it is small. The rear head attacks in response to smells and sounds. Approaching this Pokemon from behind can cause the rear head to suddenly lash out and bite."},
   {
     "name" :"pineco",
-    "descrip" : "Pineco hangs from a tree branch and patiently waits for prey to come along. If the Pokémon is disturbed while eating by someone shaking its tree, it drops down to the ground and explodes with no warning."},
+    "descrip" : "Pineco hangs from a tree branch and patiently waits for prey to come along. If the Pokemon is disturbed while eating by someone shaking its tree, it drops down to the ground and explodes with no warning."},
   {
     "name" :"forretress",
-    "descrip" : "Forretress conceals itself inside its hardened steel shell. The shell is opened when the Pokémon is catching prey, but it does so at such a quick pace that the shell's inside cannot be seen."},
+    "descrip" : "Forretress conceals itself inside its hardened steel shell. The shell is opened when the Pokemon is catching prey, but it does so at such a quick pace that the shell's inside cannot be seen."},
   {
     "name" :"dunsparce",
-    "descrip" : "Dunsparce has a drill for its tail. It uses this tail to burrow into the ground backward. This Pokémon is known to make its nest in complex shapes deep under the ground."},
+    "descrip" : "Dunsparce has a drill for its tail. It uses this tail to burrow into the ground backward. This Pokemon is known to make its nest in complex shapes deep under the ground."},
   {
     "name" :"gligar",
-    "descrip" : "Gligar glides through the air without a sound as if it were sliding. This Pokémon hangs on to the face of its foe using its clawed hind legs and the large pincers on its forelegs, then injects the prey with its poison barb."},
+    "descrip" : "Gligar glides through the air without a sound as if it were sliding. This Pokemon hangs on to the face of its foe using its clawed hind legs and the large pincers on its forelegs, then injects the prey with its poison barb."},
   {
     "name" :"steelix",
-    "descrip" : "Steelix lives even further underground than Onix. This Pokémon is known to dig toward the earth's core. There are records of this Pokémon reaching a depth of over six-tenths of a mile underground."},
+    "descrip" : "Steelix lives even further underground than Onix. This Pokemon is known to dig toward the earth's core. There are records of this Pokemon reaching a depth of over six-tenths of a mile underground."},
   {
     "name" :"snubbull",
-    "descrip" : "By baring its fangs and making a scary face, Snubbull sends smaller Pokémon scurrying away in terror. However, this Pokémon seems a little sad at making its foes flee."},
+    "descrip" : "By baring its fangs and making a scary face, Snubbull sends smaller Pokemon scurrying away in terror. However, this Pokemon seems a little sad at making its foes flee."},
   {
     "name" :"granbull",
-    "descrip" : "Granbull has a particularly well-developed lower jaw. The enormous fangs are heavy, causing the Pokémon to tip its head back for balance. Unless it is startled, it will not try to bite indiscriminately."},
+    "descrip" : "Granbull has a particularly well-developed lower jaw. The enormous fangs are heavy, causing the Pokemon to tip its head back for balance. Unless it is startled, it will not try to bite indiscriminately."},
   {
     "name" :"qwilfish",
-    "descrip" : "Qwilfish sucks in water, inflating itself. This Pokémon uses the pressure of the water it swallowed to shoot toxic quills all at once from all over its body. It finds swimming somewhat challenging."},
+    "descrip" : "Qwilfish sucks in water, inflating itself. This Pokemon uses the pressure of the water it swallowed to shoot toxic quills all at once from all over its body. It finds swimming somewhat challenging."},
   {
     "name" :"scizor",
-    "descrip" : "Scizor has a body with the hardness of steel. It is not easily fazed by ordinary sorts of attacks. This Pokémon flaps its wings to regulate its body temperature."},
+    "descrip" : "Scizor has a body with the hardness of steel. It is not easily fazed by ordinary sorts of attacks. This Pokemon flaps its wings to regulate its body temperature."},
   {
     "name" :"shuckle",
     "descrip" : "Shuckle quietly hides itself under rocks, keeping its body concealed inside its hard shell while eating berries it has stored away. The berries mix with its body fluids to become a juice."},
   {
     "name" :"heracross",
-    "descrip" : "Heracross charges in a straight line at its foe, slips beneath the foe's grasp, and then scoops up and hurls the opponent with its mighty horn. This Pokémon even has enough power to topple a massive tree."},
+    "descrip" : "Heracross charges in a straight line at its foe, slips beneath the foe's grasp, and then scoops up and hurls the opponent with its mighty horn. This Pokemon even has enough power to topple a massive tree."},
   {
     "name" :"sneasel",
-    "descrip" : "Sneasel scales trees by punching its hooked claws into the bark. This Pokémon seeks out unguarded nests and steals eggs for food while the parents are away."},
+    "descrip" : "Sneasel scales trees by punching its hooked claws into the bark. This Pokemon seeks out unguarded nests and steals eggs for food while the parents are away."},
   {
     "name" :"teddiursa",
-    "descrip" : "This Pokémon likes to lick its palms that are sweetened by being soaked in honey. Teddiursa concocts its own honey by blending fruits and pollen collected by Beedrill."},
+    "descrip" : "This Pokemon likes to lick its palms that are sweetened by being soaked in honey. Teddiursa concocts its own honey by blending fruits and pollen collected by Beedrill."},
   {
     "name" :"ursaring",
-    "descrip" : "In the forests inhabited by Ursaring, it is said that there are many streams and towering trees where they gather food. This Pokémon walks through its forest gathering food every day."},
+    "descrip" : "In the forests inhabited by Ursaring, it is said that there are many streams and towering trees where they gather food. This Pokemon walks through its forest gathering food every day."},
   {
     "name" :"slugma",
-    "descrip" : "Molten magma courses throughout Slugma's circulatory system. If this Pokémon is chilled, the magma cools and hardens. Its body turns brittle and chunks fall off, reducing its size."},
+    "descrip" : "Molten magma courses throughout Slugma's circulatory system. If this Pokemon is chilled, the magma cools and hardens. Its body turns brittle and chunks fall off, reducing its size."},
   {
     "name" :"magcargo",
-    "descrip" : "Magcargo's shell is actually its skin that hardened as a result of cooling. Its shell is very brittle and fragile—just touching it causes it to crumble apart. This Pokémon returns to its original size by dipping itself in magma."},
+    "descrip" : "Magcargo's shell is actually its skin that hardened as a result of cooling. Its shell is very brittle and fragile—just touching it causes it to crumble apart. This Pokemon returns to its original size by dipping itself in magma."},
   {
     "name" :"swinub",
-    "descrip" : "Swinub roots for food by rubbing its snout against the ground. Its favorite food is a mushroom that grows under the cover of dead grass. This Pokémon occasionally roots out hot springs."},
+    "descrip" : "Swinub roots for food by rubbing its snout against the ground. Its favorite food is a mushroom that grows under the cover of dead grass. This Pokemon occasionally roots out hot springs."},
   {
     "name" :"piloswine",
-    "descrip" : "Piloswine is covered by a thick coat of long hair that enables it to endure the freezing cold. This Pokémon uses its tusks to dig up food that has been buried under ice."},
+    "descrip" : "Piloswine is covered by a thick coat of long hair that enables it to endure the freezing cold. This Pokemon uses its tusks to dig up food that has been buried under ice."},
   {
     "name" :"corsola",
-    "descrip" : "Corsola's branches glitter very beautifully in seven colors when they catch sunlight. If any branch breaks off, this Pokémon grows it back in just one night."},
+    "descrip" : "Corsola's branches glitter very beautifully in seven colors when they catch sunlight. If any branch breaks off, this Pokemon grows it back in just one night."},
   {
     "name" :"remoraid",
-    "descrip" : "Remoraid sucks in water, then expels it at high velocity using its abdominal muscles to shoot down flying prey. When evolution draws near, this Pokémon travels downstream from rivers."},
+    "descrip" : "Remoraid sucks in water, then expels it at high velocity using its abdominal muscles to shoot down flying prey. When evolution draws near, this Pokemon travels downstream from rivers."},
   {
     "name" :"octillery",
-    "descrip" : "Octillery grabs onto its foe using its tentacles. This Pokémon tries to immobilize it before delivering the finishing blow. If the foe turns out to be too strong, Octillery spews ink to escape"},
+    "descrip" : "Octillery grabs onto its foe using its tentacles. This Pokemon tries to immobilize it before delivering the finishing blow. If the foe turns out to be too strong, Octillery spews ink to escape"},
   {
     "name" :"delibird",
-    "descrip" : "Delibird carries its food bundled up in its tail. There once was a famous explorer who managed to reach the peak of the world's highest mountain, thanks to one of these Pokémon sharing its food."},
+    "descrip" : "Delibird carries its food bundled up in its tail. There once was a famous explorer who managed to reach the peak of the world's highest mountain, thanks to one of these Pokemon sharing its food."},
   {
     "name" :"mantine",
-    "descrip" : "On sunny days, schools of Mantine can be seen elegantly leaping over the sea's waves. This Pokémon is not bothered by the Remoraid that hitches rides."},
+    "descrip" : "On sunny days, schools of Mantine can be seen elegantly leaping over the sea's waves. This Pokemon is not bothered by the Remoraid that hitches rides."},
   {
     "name" :"skarmory",
-    "descrip" : "Skarmory is entirely encased in hard, protective armor. This Pokémon flies at close to 190 mph. It slashes foes with its wings that possess swordlike cutting edges."},
+    "descrip" : "Skarmory is entirely encased in hard, protective armor. This Pokemon flies at close to 190 mph. It slashes foes with its wings that possess swordlike cutting edges."},
   {
     "name" :"houndour",
-    "descrip" : "Houndour hunt as a coordinated pack. They communicate with each other using a variety of cries to corner their prey. This Pokémon's remarkable teamwork is unparalleled."},
+    "descrip" : "Houndour hunt as a coordinated pack. They communicate with each other using a variety of cries to corner their prey. This Pokemon's remarkable teamwork is unparalleled."},
   {
 
     "name" :"houndoom",
-    "descrip" : "In a Houndoom pack, the one with its horns raked sharply toward the back serves a leadership role. These Pokémon choose their leader by fighting among themselves."},
+    "descrip" : "In a Houndoom pack, the one with its horns raked sharply toward the back serves a leadership role. These Pokemon choose their leader by fighting among themselves."},
   {
     "name" :"kingdra",
-    "descrip" : "Kingdra lives at extreme ocean depths that are otherwise uninhabited. It has long been believed that the yawning of this Pokémon creates spiraling ocean currents."},
+    "descrip" : "Kingdra lives at extreme ocean depths that are otherwise uninhabited. It has long been believed that the yawning of this Pokemon creates spiraling ocean currents."},
   {
     "name" :"phanpy",
     "descrip" : "For its nest, Phanpy digs a vertical pit in the ground at the edge of a river. It marks the area around its nest with its trunk to let the others know that the area has been claimed."},
   {
     "name" :"donphan",
-    "descrip" : "Donphan's favorite attack is curling its body into a ball, then charging at its foe while rolling at high speed. Once it starts rolling, this Pokémon can't stop very easily."},
+    "descrip" : "Donphan's favorite attack is curling its body into a ball, then charging at its foe while rolling at high speed. Once it starts rolling, this Pokemon can't stop very easily."},
   {
     "name" :"porygon2",
-    "descrip" : "Porygon2 was created by humans using the power of science. The man-made Pokémon has been endowed with artificial intelligence that enables it to learn new gestures and emotions on its own."},
+    "descrip" : "Porygon2 was created by humans using the power of science. The man-made Pokemon has been endowed with artificial intelligence that enables it to learn new gestures and emotions on its own."},
   {
     "name" :"stantler",
-    "descrip" : "Stantler's magnificent antlers were traded at high prices as works of art. As a result, this Pokémon was hunted close to extinction by those who were after the priceless antlers."},
+    "descrip" : "Stantler's magnificent antlers were traded at high prices as works of art. As a result, this Pokemon was hunted close to extinction by those who were after the priceless antlers."},
   {
     "name" :"smeargle",
-    "descrip" : "Smeargle marks the boundaries of its territory using a body fluid that leaks out from the tip of its tail. Over 5,000 different marks left by this Pokémon have been found."},
+    "descrip" : "Smeargle marks the boundaries of its territory using a body fluid that leaks out from the tip of its tail. Over 5,000 different marks left by this Pokemon have been found."},
   {
     "name" :"tyrogue",
-    "descrip" : "Tyrogue becomes stressed out if it does not get to train every day. When raising this Pokémon, the Trainer must establish and uphold various training methods."},
+    "descrip" : "Tyrogue becomes stressed out if it does not get to train every day. When raising this Pokemon, the Trainer must establish and uphold various training methods."},
   {
     "name" :"hitmontop",
-    "descrip" : "Hitmontop spins on its head at high speed, all the while delivering kicks. This technique is a remarkable mix of both offense and defense at the same time. The Pokémon travels faster spinning than it does walking."},
+    "descrip" : "Hitmontop spins on its head at high speed, all the while delivering kicks. This technique is a remarkable mix of both offense and defense at the same time. The Pokemon travels faster spinning than it does walking."},
   {
     "name" :"smoochum",
     "descrip" : "Smoochum actively runs about, but also falls quite often. Whenever the chance arrives, it will look for its reflection to make sure its face hasn't become dirty."},
   {
     "name" :"elekid",
-    "descrip" : "Elekid stores electricity in its body. If it touches metal and accidentally discharges all its built-up electricity, this Pokémon begins swinging its arms in circles to recharge itself."},
+    "descrip" : "Elekid stores electricity in its body. If it touches metal and accidentally discharges all its built-up electricity, this Pokemon begins swinging its arms in circles to recharge itself."},
   {
     "name" :"magby",
-    "descrip" : "Magby's state of health is determined by observing the fire it breathes. If the Pokémon is spouting yellow flames from its mouth, it is in good health. When it is fatigued, black smoke will be mixed in with the flames."},
+    "descrip" : "Magby's state of health is determined by observing the fire it breathes. If the Pokemon is spouting yellow flames from its mouth, it is in good health. When it is fatigued, black smoke will be mixed in with the flames."},
   {
     "name" :"miltank",
     "descrip" : "Miltank gives over five gallons of milk on a daily basis. Its sweet milk is enjoyed by children and grown-ups alike. People who can't drink milk turn it into yogurt and eat it instead"},
   {
     "name" :"blissey",
-    "descrip" : "Blissey senses sadness with its fluffy coat of fur. If it does so, this Pokémon will rush over to a sad person, no matter how far away, to share a Lucky Egg that brings a smile to any face."},
+    "descrip" : "Blissey senses sadness with its fluffy coat of fur. If it does so, this Pokemon will rush over to a sad person, no matter how far away, to share a Lucky Egg that brings a smile to any face."},
   {
     "name" :"raikou",
-    "descrip" : "Raikou embodies the speed of lightning. The roars of this Pokémon send shock waves shuddering through the air and shake the ground as if lightning bolts had come crashing down."},
+    "descrip" : "Raikou embodies the speed of lightning. The roars of this Pokemon send shock waves shuddering through the air and shake the ground as if lightning bolts had come crashing down."},
   {
     "name" :"entei",
-    "descrip" : "Entei embodies the passion of magma. This Pokémon is thought to have been born in the eruption of a volcano. It sends up massive bursts of fire that utterly consume all that they touch."},
+    "descrip" : "Entei embodies the passion of magma. This Pokemon is thought to have been born in the eruption of a volcano. It sends up massive bursts of fire that utterly consume all that they touch."},
   {
     "name" :"suicune",
-    "descrip" : "Suicune embodies the compassion of a pure spring of water. It runs across the land with gracefulness. This Pokémon has the power to purify dirty water."},
+    "descrip" : "Suicune embodies the compassion of a pure spring of water. It runs across the land with gracefulness. This Pokemon has the power to purify dirty water."},
   {
     "name" :"larvitar",
-    "descrip" : "Larvitar is born deep under the ground. To come up to the surface, this Pokémon must eat its way through the soil above. Until it does so, Larvitar cannot see its parents."},
+    "descrip" : "Larvitar is born deep under the ground. To come up to the surface, this Pokemon must eat its way through the soil above. Until it does so, Larvitar cannot see its parents."},
   {
     "name" :"pupitar",
     "descrip" : "Pupitar creates a gas inside its body that it compresses and forcefully ejects to propel itself like a jet. The body is very durable—it avoids damage even if it hits solid steel."},
   {
     "name" :"tyranitar",
-    "descrip" : "Tyranitar is so overwhelmingly powerful, it can bring down a whole mountain to make its nest. This Pokémon wanders about in mountains seeking new opponents to fight."},
+    "descrip" : "Tyranitar is so overwhelmingly powerful, it can bring down a whole mountain to make its nest. This Pokemon wanders about in mountains seeking new opponents to fight."},
   {
     "name" :"lugia",
-    "descrip" : "Lugia's wings pack devastating power—a light fluttering of its wings can blow apart regular houses. As a result, this Pokémon chooses to live out of sight deep under the sea."},
+    "descrip" : "Lugia's wings pack devastating power—a light fluttering of its wings can blow apart regular houses. As a result, this Pokemon chooses to live out of sight deep under the sea."},
   {
     "name" :"ho-oh",
-    "descrip" : "Ho-Oh's feathers glow in seven colors depending on the angle at which they are struck by light. These feathers are said to bring happiness to the bearers. This Pokémon is said to live at the foot of a rainbow."},
+    "descrip" : "Ho-Oh's feathers glow in seven colors depending on the angle at which they are struck by light. These feathers are said to bring happiness to the bearers. This Pokemon is said to live at the foot of a rainbow."},
   {
     "name" :"celebi",
-    "descrip" : "This Pokémon came from the future by crossing over time. It is thought that so long as Celebi appears, a bright and shining future awaits us."},
+    "descrip" : "This Pokemon came from the future by crossing over time. It is thought that so long as Celebi appears, a bright and shining future awaits us."},
   {
     "name" :"treecko",
-    "descrip" : "Treecko has small hooks on the bottom of its feet that enable it to scale vertical walls. This Pokémon attacks by slamming foes with its thick tail."},
+    "descrip" : "Treecko has small hooks on the bottom of its feet that enable it to scale vertical walls. This Pokemon attacks by slamming foes with its thick tail."},
   {
     "name" :"grovyle",
-    "descrip" : "The leaves growing out of Grovyle's body are convenient for camouflaging it from enemies in the forest. This Pokémon is a master at climbing trees in jungles."},
+    "descrip" : "The leaves growing out of Grovyle's body are convenient for camouflaging it from enemies in the forest. This Pokemon is a master at climbing trees in jungles."},
   {
     "name" :"sceptile",
-    "descrip" : "The leaves growing on Sceptile's body are very sharp edged. This Pokémon is very agile—it leaps all over the branches of trees and jumps on its foe from above or behind."},
+    "descrip" : "The leaves growing on Sceptile's body are very sharp edged. This Pokemon is very agile—it leaps all over the branches of trees and jumps on its foe from above or behind."},
   {
     "name" :"torchic",
-    "descrip" : "Torchic sticks with its Trainer, following behind with unsteady steps. This Pokémon breathes fire of over 1,800 degrees Fahrenheit, including fireballs that leave the foe scorched black."},
+    "descrip" : "Torchic sticks with its Trainer, following behind with unsteady steps. This Pokemon breathes fire of over 1,800 degrees Fahrenheit, including fireballs that leave the foe scorched black."},
   {
     "name" :"combusken",
-    "descrip" : "Combusken toughens up its legs and thighs by running through fields and mountains. This Pokémon's legs possess both speed and power, enabling it to dole out 10 kicks in one second."},
+    "descrip" : "Combusken toughens up its legs and thighs by running through fields and mountains. This Pokemon's legs possess both speed and power, enabling it to dole out 10 kicks in one second."},
   {
     "name" :"blaziken",
-    "descrip" : "In battle, Blaziken blows out intense flames from its wrists and attacks foes courageously. The stronger the foe, the more intensely this Pokémon's wrists burn."},
+    "descrip" : "In battle, Blaziken blows out intense flames from its wrists and attacks foes courageously. The stronger the foe, the more intensely this Pokemon's wrists burn."},
   {
     "name" :"mudkip",
-    "descrip" : "The fin on Mudkip's head acts as highly sensitive radar. Using this fin to sense movements of water and air, this Pokémon can determine what is taking place around it without using its eyes."},
+    "descrip" : "The fin on Mudkip's head acts as highly sensitive radar. Using this fin to sense movements of water and air, this Pokemon can determine what is taking place around it without using its eyes."},
   {
     "name" :"marshtomp",
-    "descrip" : "The surface of Marshtomp's body is enveloped by a thin, sticky film that enables it to live on land. This Pokémon plays in mud on beaches when the ocean tide is low."},
+    "descrip" : "The surface of Marshtomp's body is enveloped by a thin, sticky film that enables it to live on land. This Pokemon plays in mud on beaches when the ocean tide is low."},
   {
     "name" :"swampert",
-    "descrip" : "Swampert is very strong. It has enough power to easily drag a boulder weighing more than a ton. This Pokémon also has powerful vision that lets it see even in murky water."},
+    "descrip" : "Swampert is very strong. It has enough power to easily drag a boulder weighing more than a ton. This Pokemon also has powerful vision that lets it see even in murky water."},
   {
     "name" :"poochyena",
-    "descrip" : "At first sight, Poochyena takes a bite at anything that moves. This Pokémon chases after prey until the victim becomes exhausted. However, it may turn tail if the prey strikes back."},
+    "descrip" : "At first sight, Poochyena takes a bite at anything that moves. This Pokemon chases after prey until the victim becomes exhausted. However, it may turn tail if the prey strikes back."},
   {
     "name" :"mightyena",
-    "descrip" : "Mightyena gives obvious signals when it is preparing to attack. It starts to growl deeply and then flattens its body. This Pokémon will bite savagely with its sharply pointed fangs."},
+    "descrip" : "Mightyena gives obvious signals when it is preparing to attack. It starts to growl deeply and then flattens its body. This Pokemon will bite savagely with its sharply pointed fangs."},
   {
     "name" :"zigzagoon",
-    "descrip" : "Zigzagoon restlessly wanders everywhere at all times. This Pokémon does so because it is very curious. It becomes interested in anything that it happens to see."},
+    "descrip" : "Zigzagoon restlessly wanders everywhere at all times. This Pokemon does so because it is very curious. It becomes interested in anything that it happens to see."},
   {
     "name" :"linoone",
-    "descrip" : "Linoone always runs full speed and only in straight lines. If facing an obstacle, it makes a right-angle turn to evade it. This Pokémon is very challenged by gently curving roads."},
+    "descrip" : "Linoone always runs full speed and only in straight lines. If facing an obstacle, it makes a right-angle turn to evade it. This Pokemon is very challenged by gently curving roads."},
   {
     "name" :"wurmple",
-    "descrip" : "Using the spikes on its rear end, Wurmple peels the bark off trees and feeds on the sap that oozes out. This Pokémon's feet are tipped with suction pads that allow it to cling to glass without slipping."},
+    "descrip" : "Using the spikes on its rear end, Wurmple peels the bark off trees and feeds on the sap that oozes out. This Pokemon's feet are tipped with suction pads that allow it to cling to glass without slipping."},
   {
     "name" :"silcoon",
-    "descrip" : "Silcoon tethers itself to a tree branch using silk to keep from falling. There, this Pokémon hangs quietly while it awaits evolution. It peers out of the silk cocoon through a small hole."},
+    "descrip" : "Silcoon tethers itself to a tree branch using silk to keep from falling. There, this Pokemon hangs quietly while it awaits evolution. It peers out of the silk cocoon through a small hole."},
   {
     "name" :"beautifly",
-    "descrip" : "Beautifly's favorite food is the sweet pollen of flowers. If you want to see this Pokémon, just leave a potted flower by an open window. Beautifly is sure to come looking for pollen."},
+    "descrip" : "Beautifly's favorite food is the sweet pollen of flowers. If you want to see this Pokemon, just leave a potted flower by an open window. Beautifly is sure to come looking for pollen."},
   {
     "name" :"cascoon",
-    "descrip" : "Cascoon makes its protective cocoon by wrapping its body entirely with a fine silk from its mouth. Once the silk goes around its body, it hardens. This Pokémon prepares for its evolution inside the cocoon."},
+    "descrip" : "Cascoon makes its protective cocoon by wrapping its body entirely with a fine silk from its mouth. Once the silk goes around its body, it hardens. This Pokemon prepares for its evolution inside the cocoon."},
   {
     "name" :"dustox",
-    "descrip" : "Dustox is instinctively drawn to light. Swarms of this Pokémon are attracted by the bright lights of cities, where they wreak havoc by stripping the leaves off roadside trees for food."},
+    "descrip" : "Dustox is instinctively drawn to light. Swarms of this Pokemon are attracted by the bright lights of cities, where they wreak havoc by stripping the leaves off roadside trees for food."},
   {
     "name" :"lotad",
-    "descrip" : "Lotad live in ponds and lakes, where they float on the surface. It grows weak if its broad leaf dies. On rare occasions, this Pokémon travels on land in search of clean water."},
+    "descrip" : "Lotad live in ponds and lakes, where they float on the surface. It grows weak if its broad leaf dies. On rare occasions, this Pokemon travels on land in search of clean water."},
   {
     "name" :"lombre",
-    "descrip" : "Lombre is nocturnal—it will get active after dusk. It is also a mischief maker. When this Pokémon spots anglers, it tugs on their fishing lines from beneath the surface and enjoys their consternation."},
+    "descrip" : "Lombre is nocturnal—it will get active after dusk. It is also a mischief maker. When this Pokemon spots anglers, it tugs on their fishing lines from beneath the surface and enjoys their consternation."},
   {
     "name" :"ludicolo",
-    "descrip" : "Ludicolo begins dancing as soon as it hears cheerful, festive music. This Pokémon is said to appear when it hears the singing of children on hiking outings."},
+    "descrip" : "Ludicolo begins dancing as soon as it hears cheerful, festive music. This Pokemon is said to appear when it hears the singing of children on hiking outings."},
   {
     "name" :"seedot",
-    "descrip" : "Seedot attaches itself to a tree branch using the top of its head. It sucks moisture from the tree while hanging off the branch. The more water it drinks, the glossier this Pokémon's body becomes."},
+    "descrip" : "Seedot attaches itself to a tree branch using the top of its head. It sucks moisture from the tree while hanging off the branch. The more water it drinks, the glossier this Pokemon's body becomes."},
   {
     "name" :"nuzleaf",
-    "descrip" : "Nuzleaf live in densely overgrown forests. They occasionally venture out of the forest to startle people. This Pokémon dislikes having its long nose pinched."},
+    "descrip" : "Nuzleaf live in densely overgrown forests. They occasionally venture out of the forest to startle people. This Pokemon dislikes having its long nose pinched."},
   {
     "name" :"shiftry",
-    "descrip" : "Shiftry is a mysterious Pokémon that is said to live atop towering trees dating back over a thousand years. It creates terrific windstorms with the fans it holds."},
+    "descrip" : "Shiftry is a mysterious Pokemon that is said to live atop towering trees dating back over a thousand years. It creates terrific windstorms with the fans it holds."},
   {
     "name" :"taillow",
-    "descrip" : "Taillow courageously stands its ground against foes, however strong they may be. This gutsy Pokémon will remain defiant even after a loss. On the other hand, it cries loudly if it becomes hungry."},
+    "descrip" : "Taillow courageously stands its ground against foes, however strong they may be. This gutsy Pokemon will remain defiant even after a loss. On the other hand, it cries loudly if it becomes hungry."},
   {
     "name" :"swellow",
-    "descrip" : "Swellow flies high above our heads, making graceful arcs in the sky. This Pokémon dives at a steep angle as soon as it spots its prey. The hapless prey is tightly grasped by Swellow's clawed feet, preventing escape."},
+    "descrip" : "Swellow flies high above our heads, making graceful arcs in the sky. This Pokemon dives at a steep angle as soon as it spots its prey. The hapless prey is tightly grasped by Swellow's clawed feet, preventing escape."},
   {
     "name" :"wingull",
-    "descrip" : "Wingull has the habit of carrying prey and valuables in its beak and hiding them in all sorts of locations. This Pokémon rides the winds and flies as if it were skating across the sky."},
+    "descrip" : "Wingull has the habit of carrying prey and valuables in its beak and hiding them in all sorts of locations. This Pokemon rides the winds and flies as if it were skating across the sky."},
   {
     "name" :"pelipper",
-    "descrip" : "Pelipper is a flying transporter that carries small Pokémon and eggs inside its massive bill. This Pokémon builds its nest on steep cliffs facing the sea."}
+    "descrip" : "Pelipper is a flying transporter that carries small Pokemon and eggs inside its massive bill. This Pokemon builds its nest on steep cliffs facing the sea."}
   ]
 }
