@@ -49,7 +49,8 @@ def choosePoke(n):
 jNum = choosePoke(len(jData['pokemon']))
 jName = jData['pokemon'][jNum]['name']
 jDes = jData['pokemon'][jNum]['descrip']
-pPicture = f'https://img.pokemondb.net/artwork/{jName}.jpg'
+#pPicture = f'https://img.pokemondb.net/artwork/{jName}.jpg'
+pPicture = f"https://projectpokemon.org/images/normal-sprite/{jName}.gif"
 
 	#Opens API link
 apiLink = f'https://pokeapi.co/api/v2/pokemon/{jName}'
