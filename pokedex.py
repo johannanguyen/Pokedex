@@ -49,7 +49,7 @@ def choosePoke(n):
 jNum = choosePoke(len(jData['pokemon']))
 jName = jData['pokemon'][jNum]['name']
 jDes = jData['pokemon'][jNum]['descrip']
-pPicture = f'http://www.pokestadium.com/sprites/xy/{jName}.gif'
+pPicture = f'https://img.pokemondb.net/artwork/{jName}.jpg'
 
 	#Opens API link
 apiLink = f'https://pokeapi.co/api/v2/pokemon/{jName}'
