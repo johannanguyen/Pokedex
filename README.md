@@ -19,4 +19,4 @@ To use:
 
 Make sure your sound is on! :)
 
-<img src="https://ibb.co/1Rk0w4r">
+<img src="https://i.ibb.co/ygrNbx6/poke-example.png">
