@@ -35,37 +35,38 @@ with open('pokemon.json', encoding="UTF-8") as f:
 	jData = json.load(f)
 
 
-	#Randomly chooses a num between 0 - 299
+#Randomly chooses a num between 0 - 299
 def choosePoke(n):
 	i = random.randint(0,n)
 	return i
 
 
-	#jNum is a randomized number out of 279 (since we have 280 pokemon)
-	#jName is name of random pokemon
-	#jDes is the full description of random pokemon
-	#pPicture is used to display image of random pokemon
-	#f denotes there is a variable in the string
+#jNum is a randomized number out of 279 (since we have 280 pokemon)
+#jName is name of random pokemon
+#jDes is the full description of random pokemon
+#pPicture is used to display image of random pokemon
+#f denotes there is a variable in the string
 jNum = choosePoke(len(jData['pokemon']))
 jName = jData['pokemon'][jNum]['name']
 jDes = jData['pokemon'][jNum]['descrip']
+
 #pPicture = f'https://img.pokemondb.net/artwork/{jName}.jpg'
 pPicture = f"https://projectpokemon.org/images/normal-sprite/{jName}.gif"
-
-	#Opens API link
+ 
+#Opens API link
 apiLink = f'https://pokeapi.co/api/v2/pokemon/{jName}'
 apiData = requests.get(apiLink)
 
-	#Places API data in a usable package
+#Places API data in a usable package
 pack_apiData = apiData.json()
 
-	#Sets each desired attribute using JSON
+#Sets each desired attribute using JSON
 apiNum = pack_apiData['id']
 apiType = pack_apiData['types'][0]['type']['name']
 apiHeight = pack_apiData['height']
 apiWeight = pack_apiData['weight']
 
-	#Used to test if desired attributes were printed (in console)
+#Used to test if desired attributes were printed (in console)
 print(jName, apiNum, apiType, apiHeight, apiWeight)
 
 
