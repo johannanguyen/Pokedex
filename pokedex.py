@@ -31,7 +31,7 @@ def index():
 		pPicture=pPicture,
 		data=data)
 
-with open('pokemon.json') as f:
+with open('pokemon.json', encoding="UTF-8") as f:
 	jData = json.load(f)
 
 
@@ -69,3 +69,6 @@ apiWeight = pack_apiData['weight']
 print(jName, apiNum, apiType, apiHeight, apiWeight)
 
 
+if __name__ == '__main__':
+    app.debug = True
+    app.run()
