@@ -7,14 +7,14 @@ https://projectpokemon.org
 
 To use:
 1. Clone this repository
-2. Install flask by running the following in your terminal:
-    sudo pip install flask -or- 
-    sudo pip3 install flask
-3. Install pygame by running the following in your terminal:
-    sudo pip install pygame -or- 
-    sudo pip3 install pygame
-4. Run the program by typing the following in your terminal:
-    python pokedex.py
+2. Install flask by running the following in your terminal:<br>
+    `sudo pip install flask` -or- <br>
+    `sudo pip3 install flask`
+3. Install pygame by running the following in your terminal:<br>
+    `sudo pip install pygame` -or- <br>
+    `sudo pip3 install pygame`
+4. Run the program by typing the following in your terminal:<br>
+    `python pokedex.py`
 5. Open your web browser and navigate to: http://127.0.0.1:5000/
 
 Make sure your sound is on! :)
