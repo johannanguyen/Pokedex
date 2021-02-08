@@ -1,8 +1,8 @@
 # Pokedex
 Randomly selects one of 300 Pokemon and displays its basic statistics, plays its Pokemon cry, displays a gif.
 
-Resources:
-https://pokeapi.co/api/v2/pokemon/ditto
+Resources:<br>
+https://pokeapi.co/api/v2/pokemon/ditto<br>
 https://projectpokemon.org
 
 To use:
