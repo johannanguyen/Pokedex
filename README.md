@@ -7,7 +7,8 @@ https://projectpokemon.org
 
 To use:
 1. Clone this repository
-2. Install flask by running the following in your terminal:<br>
+2. Navigate to the repository in your terminal
+3. Install flask by running the following in your terminal:<br>
     `pip install flask` -or- <br>
     `pip3 install flask`
 3. Install pygame by running the following in your terminal:<br>
