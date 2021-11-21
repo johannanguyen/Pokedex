@@ -21,7 +21,7 @@ To use:
     `pip install flask-assets` -or- <br>
     `pip3 install flask-assets`
 6. Run the program by typing the following in your terminal:<br>
-    `set FLASK_APP = pokedex.py` <br>
+    `set FLASK_APP=pokedex.py` <br>
     `python -m flask run`
 5. Open your web browser and navigate to: http://127.0.0.1:5000/
 
